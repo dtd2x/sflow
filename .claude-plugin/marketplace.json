@@ -1,0 +1,6 @@
+{
+  "name": "sflow",
+  "metadata": { "description": "sflow — navy-style HTML/SVG diagrams for Claude Code." },
+  "owner": { "name": "dtd2x" },
+  "plugins": [ { "name": "sflow", "source": "./" } ]
+}

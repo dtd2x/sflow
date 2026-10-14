@@ -1,0 +1,9 @@
+{
+  "name": "sflow",
+  "description": "Draw architecture, flowchart, swimlane, sequence, state, ER, timeline, Gantt, layers, tree, org chart, data flow, deployment, dependency and more as self-contained HTML/SVG diagrams in the sflow navy style — dark by default, light toggle, PNG/SVG export.",
+  "version": "1.0.0",
+  "author": { "name": "dtd2x", "url": "https://github.com/dtd2x" },
+  "repository": "https://github.com/dtd2x/sflow",
+  "license": "MIT",
+  "keywords": ["diagrams", "svg", "architecture", "flowchart", "swimlane", "sequence", "navy", "vietnamese"]
+}
